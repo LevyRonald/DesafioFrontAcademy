@@ -24,7 +24,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'testando'
+      msg: 'testando 2.0'
     }
   }
 }
