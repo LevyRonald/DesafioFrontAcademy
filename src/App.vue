@@ -18,7 +18,4 @@ export default {
 </script>
 
 <style>
-.portfolio{
-  display: none;
-}
 </style>
