@@ -1,7 +1,6 @@
 <template>
 <div>
   <meu-menu><img src="./assets/logo.svg" alt=""></meu-menu>
-  <portfolio class="portfolio"><img src="./assets/manager.svg" alt=""></portfolio>
 </div>
 </template>
 
