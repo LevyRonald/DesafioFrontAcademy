@@ -1,11 +1,11 @@
 <template>
  <header class="menu">
-     <slot>
+     <slot class="logo">
      </slot>
     <nav>
-        <li> <a href=""> Home </a></li>
-        <li> <a href=""> Portfólio </a></li>
-        <li> <a href=""> Contato </a></li> 
+        <li> <a href=""> HOME </a></li>
+        <li> <a href=""> PORTFOLIO </a></li>
+        <li> <a href=""> CONTATO </a></li> 
     </nav>      
     </header>
 </template>
@@ -25,9 +25,8 @@ export default {
   display: flex;
   align-items: center;
   background-color: #ffffff;
-  margin-top: 65px;
-  margin-left: 164px;
-  margin-right: 164px;
+  width: 90%;
+  padding: 64px;
 }
 
 .menu nav{
