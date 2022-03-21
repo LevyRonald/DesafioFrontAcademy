@@ -9,6 +9,7 @@ import menu from './components/shared/menu/menu.vue'
 export default {
       components: {
     'meu-menu' : menu
+    
   },
 }
 </script>
