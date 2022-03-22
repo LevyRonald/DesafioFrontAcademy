@@ -3,8 +3,8 @@
      <slot class="logo">
      </slot>
     <nav>
-        <li> <a href=""> HOME </a></li>
-        <li> <a href=""> PORTFOLIO </a></li>
+        <li> <a href="/"> HOME </a></li>
+        <li> <a href="/portfolio"> PORTFOLIO </a></li>
         <li> <a href=""> CONTATO </a></li> 
     </nav>      
     </header>
