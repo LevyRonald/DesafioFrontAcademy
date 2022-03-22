@@ -1,6 +1,6 @@
 <template>
 <div class="footer">
-    <slot class="logo_footer"></slot>
+     <img src="../../../assets/logo_footer.svg" alt="">
      <nav class="paginas">
         <li> <a href="/"> HOME </a></li>
         <li> <a href="/portfolio"> PORTFOLIO </a></li>

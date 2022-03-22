@@ -1,10 +1,8 @@
 <template>
 <div>
-  <meu-menu><img src="./assets/logo.svg" alt=""></meu-menu>
+  <meu-menu></meu-menu>
   <router-view></router-view>
-  <meu-footer>
-    <img src="./assets/logo_footer.svg" alt="">
-    </meu-footer>
+  <meu-footer></meu-footer>
 </div>
 </template>
 
