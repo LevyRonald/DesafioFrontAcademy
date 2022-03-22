@@ -14,9 +14,9 @@
           formulário.
         </p>
         <nav>
-            <li><a href=""><img src="../.././assets/github_Preto.svg" alt=""></a></li>
-            <li><a href=""><img src="../.././assets/twitter_Preto.svg" alt=""></a></li>
-            <li><a href=""><img src="../.././assets/linkedin_Preto.svg" alt=""></a></li>
+            <li><a href=""><img src="../.././assets/contato/github_Preto.svg" alt=""></a></li>
+            <li><a href=""><img src="../.././assets/contato/twitter_Preto.svg" alt=""></a></li>
+            <li><a href=""><img src="../.././assets/contato/linkedin_Preto.svg" alt=""></a></li>
         </nav></div>
       </section>
       <section class="area_formulario">
