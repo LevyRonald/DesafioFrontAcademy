@@ -1,6 +1,6 @@
 <template>
  <header class="menu">
-     <img src="../../../assets/logo.svg" alt="">
+     <img src="../../../assets/menu/logo.svg" alt="">
     <nav>
         <li> <a href="/"> HOME </a></li>
         <li> <a href="/portfolio"> PORTFOLIO </a></li>
