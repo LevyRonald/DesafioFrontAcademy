@@ -7,9 +7,9 @@
         <li> <a href="/contato"> CONTATO </a></li> 
     </nav> 
      <nav class="links">
-        <li> <a href=""> <img src="../../../assets/github.svg" alt=""></a></li> 
-        <li> <a href=""> <img src="../../../assets/twitter.svg" alt=""></a></li>
-        <li> <a href=""> <img src="../../../assets/linkedin.svg" alt=""></a></li>
+        <li> <a href=""> <img src="../../../assets/footer/github.svg" alt=""></a></li> 
+        <li> <a href=""> <img src="../../../assets/footer/twitter.svg" alt=""></a></li>
+        <li> <a href=""> <img src="../../../assets/footer/linkedin.svg" alt=""></a></li>
     </nav>         
 </div>
 </template>
