@@ -2,7 +2,7 @@
 <section>
 <section class="manager">
       <div class="m-img m-box">
-          <img src="../../assets/manager.svg" alt="">
+          <img src="../../assets/portfolio/manager.svg" alt="">
       </div>
       <div class="m-texto m-box">
         <h1>Manage</h1>
@@ -14,7 +14,7 @@
     </section>
     <section class="bookmark">
       <div class="b-img b-box">
-          <img src="../../assets/Bookmark.svg" alt="">
+          <img src="../../assets/portfolio/Bookmark.svg" alt="">
       </div>
       <div class="b-texto b-box">
         <h1>Bookmark</h1>
@@ -26,7 +26,7 @@
     </section>
     <section class="insure">
       <div class="i-img i-box">
-          <img src="../../assets/insure.svg" alt="">
+          <img src="../../assets/portfolio/insure.svg" alt="">
       </div>
       <div class="i-texto i-box">
         <h1>insure</h1>
@@ -38,7 +38,7 @@
     </section>
     <section class="fylo">
       <div class="f-img f-box">
-          <img src="../../assets/fylo.svg" alt="">
+          <img src="../../assets/portfolio/fylo.svg" alt="">
       </div>
       <div class="f-texto f-box">
         <h1>Fylo</h1>
