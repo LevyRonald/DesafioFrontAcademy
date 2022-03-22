@@ -26,7 +26,7 @@
           ciclismo. Eu amaria se você desse uma olhada no meu trabalho.
         </p>
         <div class="link-box">
-          <a href="#" class="ctn"
+          <a href="/portfolio" class="ctn"
             >ir para portfolio</a
           >
         </div>
