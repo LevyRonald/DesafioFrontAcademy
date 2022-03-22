@@ -168,4 +168,10 @@
   border: 1px solid #33323D;
   color:#33323D;
 }
+span{
+    background:url('../../assets/Group3.svg');
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: center;
+}
 </style>
