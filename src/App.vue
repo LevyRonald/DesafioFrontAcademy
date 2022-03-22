@@ -1,7 +1,7 @@
 <template>
 <div>
   <meu-menu><img src="./assets/logo.svg" alt=""></meu-menu>
-  <home><img src="./assets/Bitmap.png" alt=""></home>
+  <router-view></router-view>
   <meu-footer>
     <img src="./assets/logo_footer.svg" alt="">
     </meu-footer>
