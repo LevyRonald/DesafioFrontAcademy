@@ -4,11 +4,11 @@
       <div class="info-box">
         <div class="info-sub-box">
           <h1>Olá, me chamo Alex Spencer e eu amo construir websites lindos</h1>
-          <button href="#sobre-mim"><span></span>sobre mim</button>
+          <a href="#sobre-mim"><button><span></span>sobre mim</button></a>
         </div>
       </div>
     </section>
-    <section class="sobre-mim" id="">
+    <section class="sobre-mim" id="sobre-mim">
       <div class="img-perfil info-sobre">
         <slot></slot>
       </div>
@@ -70,6 +70,9 @@
   font-size:2.5em;
   max-width: 360px;
   margin-bottom: 48px;
+}
+.info-box a{
+  text-decoration: none;
 }
 .info-sub-box button{
   font-family: 'Public Sans', 'Regular', sans-serif;
