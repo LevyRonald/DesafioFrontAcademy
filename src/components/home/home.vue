@@ -10,7 +10,7 @@
     </section>
     <section class="sobre-mim" id="sobre-mim">
       <div class="img-perfil info-sobre">
-        <slot></slot>
+        <img src="../../assets/Bitmap.png" alt="">
       </div>
       <div class="texto-info info-sobre">
         <h1>Sobre mim</h1>
