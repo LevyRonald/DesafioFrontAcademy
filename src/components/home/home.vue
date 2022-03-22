@@ -10,7 +10,7 @@
     </section>
     <section class="sobre-mim" id="sobre-mim">
       <div class="img-perfil info-sobre">
-        <img src="../../assets/Bitmap.png" alt="">
+        <img src="../../assets/home/Bitmap.png" alt="">
       </div>
       <div class="texto-info info-sobre">
         <h1>Sobre mim</h1>
@@ -52,7 +52,7 @@
 .info-box{
   width:100%;
   height:600px;
-  background:url('../../assets/Group16.png');
+  background:url('../../assets/home/Group16.png');
   background-size:contain;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -172,7 +172,7 @@
   color:#33323D;
 }
 span{
-    background:url('../../assets/Group3.svg');
+    background:url('../../assets/home/Group3.svg');
     background-repeat: no-repeat;
     background-size: 80%;
     background-position: center;
