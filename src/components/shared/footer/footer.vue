@@ -2,9 +2,9 @@
 <div class="footer">
     <slot class="logo_footer"></slot>
      <nav class="paginas">
-        <li> <a href=""> HOME </a></li>
-        <li> <a href=""> PORTFOLIO </a></li>
-        <li> <a href=""> CONTATO </a></li> 
+        <li> <a href="/"> HOME </a></li>
+        <li> <a href="/portfolio"> PORTFOLIO </a></li>
+        <li> <a href="/contato"> CONTATO </a></li> 
     </nav> 
      <nav class="links">
         <li> <a href=""> <img src="../../../assets/github.svg" alt=""></a></li> 

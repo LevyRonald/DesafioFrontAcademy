@@ -34,7 +34,7 @@
     </section>
     <section class="interessado">
       <h1>Interessado em fazer projetos comigo?</h1>
-      <a href="#" class="ctn">contato</a>
+      <a href="/contato" class="ctn">contato</a>
     </section>
   </div>
 </template>

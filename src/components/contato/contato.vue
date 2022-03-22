@@ -1,6 +1,5 @@
 <template>
   <div class="contato">
-    <meu-menu><img src="../.././assets/logo.svg" alt="" /></meu-menu>
     <main>
       <section class="entre_Contato">
         <h1>Entre Em Contato</h1>
@@ -33,18 +32,9 @@
           </form>
       </section>
     </main>
-    <meu-footer><img src="../.././assets/logo_footer.svg" alt="" /></meu-footer>
   </div>
 </template>
 <script>
-import menu from "../shared/menu/menu.vue";
-import footer from "../shared/footer/footer.vue";
-export default {
-  components: {
-    "meu-menu": menu,
-    "meu-footer": footer,
-  },
-};
 </script>
 <style>
 main{
