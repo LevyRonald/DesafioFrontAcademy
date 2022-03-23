@@ -8,7 +8,7 @@
         <h1>Manage</h1>
         <p>Esse projeto me fez criar uma landing page responsiza de acordo com o design que recebi. Usei HTML5, CSS Grid e JavaScript para as áreas interativas, como o slider de testimoniais.</p>
         <div>
-          <a href="">Ver Projeto</a>
+          <a href="/manager">Ver Projeto</a>
         </div>
       </div>
     </section>
@@ -20,7 +20,7 @@
         <h1>Bookmark</h1>
         <p>Esse projeto me fez criar uma landing page responsiza de acordo com o design que recebi. Usei HTML5, CSS Grid e JavaScript para as áreas interativas, como o slider de testimoniais.</p>
         <div>
-          <a href="">Ver Projeto</a>
+          <a href="/bookmark">Ver Projeto</a>
         </div>
       </div>
     </section>
@@ -32,7 +32,7 @@
         <h1>insure</h1>
         <p>Este foi um projeto pequeno que consistiu em HTML e CSS principalmente. Eu construí uma landing page totalmente responsiva. O único JavaScript que usei foi para o menu de navegação mobile.</p>
         <div>
-          <a href="">Ver Projeto</a>
+          <a href="/insure">Ver Projeto</a>
         </div>
       </div>
     </section>
@@ -44,7 +44,7 @@
         <h1>Fylo</h1>
         <p>Este projeto foi puramente HTML e CSS. Eu recebi designs mobile e desktop para construir, então ele foi totalmente responsivo. Eu tomei um caminho mobile-first e usei CSS moderno como Flexbox e Grid para criar o layout.</p>
         <div>
-          <a href="">Ver Projeto</a>
+          <a href="/fylo">Ver Projeto</a>
         </div>
       </div>
     </section>
