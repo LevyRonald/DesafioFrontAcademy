@@ -17,7 +17,7 @@
         </p>
         <div class="preview">
           <h1>Previews Estáticos</h1>
-          <img src="../../../../assets/portfolio/manager.svg" alt="">
+          <img  class="image1" src="../../../../assets/portfolio/manager.svg" alt="">
           <img class="image2" src="../../../../assets/portfolio/BitmapCopy.jpg" alt="">
         </div>
       </div>
@@ -61,7 +61,7 @@ export default {
   height: 19px;
   color: #5FB4A2;
 }
-.preview .image2{
+.preview .image2,.image1{
   margin-top: 19px;
   background-repeat: no-repeat;
   width: 94%;
