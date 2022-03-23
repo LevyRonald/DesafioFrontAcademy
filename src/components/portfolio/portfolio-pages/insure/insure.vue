@@ -3,7 +3,7 @@
     <div class="container">
       <img
         class="img-inicio"
-        src="../../../../assets/insure/porto 1.png"
+        src="../../../../assets/insure/insurePrincipal.png"
         alt=""
       />
       <div class="conteudo">
@@ -32,8 +32,8 @@
             com cada projeto, me ajudando a melhorar e adaptar meu estilo.
           </p>
           <h1>Previews Estáticos</h1>
-          <img src="../../../../assets/insure/bitmap.png" alt="" />
-          <img src="../../../../assets/insure/bitmap copy.png" alt="" />
+          <img src="../../../../assets/insure/insure1.png" alt="" />
+          <img src="../../../../assets/insure/insure2.png" alt="" />
         </section>
       </div>
     </div>

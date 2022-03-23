@@ -3,7 +3,7 @@
     <div class="container">
       <img
         class="img-inicio"
-        src="../../../../assets/fylo/porto 1 (1).png"
+        src="../../../../assets/fylo/fyloPrincipal.png"
         alt=""
       />
       <div class="conteudo">
@@ -29,8 +29,8 @@
           resolver problemas de código da vida real. Eu aprendi algo novo com
           cada projeto, me ajudando a melhorar e adaptar meu estilo.</p>
           <h1>Previews Estáticos</h1>
-          <img src="../../../../assets/fylo/bitmap (1).png" alt="">
-          <img src="../../../../assets/fylo/bitmap copy (1).png" alt="">
+          <img src="../../../../assets/fylo/fylo1.png" alt="">
+          <img src="../../../../assets/fylo/fylo2.png" alt="">
         </section>
       </div>
     </div>
