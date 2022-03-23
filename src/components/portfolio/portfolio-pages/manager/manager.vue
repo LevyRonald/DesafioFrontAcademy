@@ -35,8 +35,8 @@
       </div>
     </section>
     <navegador>
-      <a slot="anterior" class="anterior" href=""><h1>Fylo</h1></a>
-      <a slot="proximo" class="proximo" href=""><h1>Bookmark</h1></a>
+      <a slot="anterior" class="anterior" href="/fylo"><h1>Fylo</h1></a>
+      <a slot="proximo" class="proximo" href="/bookmark"><h1>Bookmark</h1></a>
     </navegador>
     <interessados></interessados>
   </div>
