@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="fundo-bookmark">
-      <img src="../../../../assets/portfolio/bookmark-portfolio.svg" alt="" />
+      <img src="../../../../assets/bookmark/bookmark-portfolio.svg" alt="" />
     </div>
     <section class="conteudo">
       <div class="projeto">
@@ -17,8 +17,8 @@
         </p>
         <div class="preview">
           <h1>Previews Estáticos</h1>
-          <img src="../../../../assets/portfolio/Bookmark.svg" alt="">
-          <img class="image2" src="../../../../assets/portfolio/bookmark-preview.svg" alt="">
+          <img src="../../../../assets/bookmark/bookmark-preview.svg" alt="">
+          <img class="image2" src="../../../../assets/bookmark/bookmark-preview2.svg" alt="">
         </div>
       </div>
       <div class="bookmark">
@@ -34,7 +34,7 @@
     </section>
     <navegador>
       <a slot="anterior" class="anterior" href="/manager"><h1>Manage</h1></a>
-      <a slot="proximo" class="proximo" href=""><h1>Insure</h1></a>
+      <a slot="proximo" class="proximo" href="/insure"><h1>Insure</h1></a>
     </navegador>
     <interessados></interessados>
   </div>
@@ -62,7 +62,7 @@ export default {
 .preview .image2{
   margin-top: 19px;
   background-repeat: no-repeat;
-  width: 94%;
+  width: 100%;
   height: 80%;
 }
 .bookmark h1{
