@@ -108,7 +108,7 @@ export default {
   margin-bottom: 60px;
   width: 100%;
 }
-.fundo-bookamark img {
+.fundo-bookmark img {
   margin-left: 10%;
   background-repeat: no-repeat;
   width: 80%;
