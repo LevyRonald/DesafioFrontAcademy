@@ -1,5 +1,5 @@
 # Resumo do projeto
-projeto de um front-end feito em equipe com o objetivo de desenvolver técnicas e habilidades para traballhar em conjunto com outras pessoas
+projeto de um front-end feito em equipe com o objetivo de desenvolver técnicas e habilidades para traballhar em conjunto
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``html css``
